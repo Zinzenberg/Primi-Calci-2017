@@ -1,0 +1,19 @@
+{
+  "partita": {
+    "id": "match_001",
+    "casa": "Squadra A",
+    "ospite": "Squadra B",
+    "golCasa": 0,
+    "golOspite": 0,
+    "data": "2024-05-20",
+    "ora": "10:30",
+    "campo": "Via Roma 10, Milano",
+    "tipo": "campionato" 
+  },
+  "squadra": {
+    "nome": "Squadra A",
+    "allenatore": "Nome Cognome",
+    "email": "email@esempio.com",
+    "giocatori": ["Marco", "Luca", "Andrea"]
+  }
+}
